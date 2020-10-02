@@ -9,7 +9,7 @@
 ## Hi!  ;)
 
 My name is Davi, I have training as a computer technician and I'm passionate about web, mobile and game development. 
-I'm gamer, in love with Sonic ;)
+<br> I'm gamer, in love with Sonic ;)
 
 - :office_worker: Currently just studying, I'm unemployed **(How about changing that, huh? Haha)**
 - :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Docker, and many others.
