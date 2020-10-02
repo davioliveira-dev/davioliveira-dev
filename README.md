@@ -35,7 +35,7 @@ My name is Davi, I have training as a computer technician and I'm passionate abo
   ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=flat-square&logo=styled-components&logoColor=white)
   ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=Node.js&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=flat-square&logo=typescript&logoColor=fff)
-  ![Kotlin](https://img.shields.io/badge/-Kotlin-00ADEF?style=flat-square&logo=kotlin&logoColor=white)
+  ![Kotlin](https://img.shields.io/badge/-Kotlin-00ADEF?style=flat-square&logo=kotlin&logoColor=orange)
   ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=flat-square&logo=mysql&logoColor=white)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
   ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
