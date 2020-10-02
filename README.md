@@ -1,14 +1,15 @@
 # :blue_heart: Davi Oliveira
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/davioliveira-dev)
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-bittencourt/)](https://www.linkedin.com/in/davioliveira-dev/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/lgdbittencourt)](https://twitter.com/davi_oliveirab)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5512988344336&text=Olá!)](https://api.whatsapp.com/send?phone=5585988270073&text=Olá!)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/davioliveira-dev)](https://github.com/davioliveira-dev)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davioliveira-dev/)](https://www.linkedin.com/in/davioliveira-dev/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/davi_oliveirab)](https://twitter.com/davi_oliveirab)
+[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585988270073&text=Olá!)](https://api.whatsapp.com/send?phone=5585988270073&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davioliveira.java@gmail.com)](mailto:davioliveira.java@gmail.com)
 
 ## Hi!  ;)
 
-My name is Davi, I have training as a computer technician and I'm passionate about web, mobile and game development, of course, I'm gamer: P
+My name is Davi, I have training as a computer technician and I'm passionate about web, mobile and game development. 
+I'm gamer, in love with Sonic ;)
 
 - :office_worker: Currently just studying, I'm unemployed **(How about changing that, huh? Haha)**
 - :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Docker, and many others.
