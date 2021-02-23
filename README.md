@@ -8,11 +8,13 @@
 
 ## Hi!  ;)
 
-My name is Davi, I have training as a computer technician and I'm passionate about web, mobile and game development. 
-<br> I'm gamer, in love with Sonic ;)
+My name is Davi, I have a technical course in IT on EEEP José de Barcelos. 
+I am passionate about development, be it web, mobile, IoT or game development.
+
+<br> Also i'm gamer, i love Sonic since i was 6! ;)
 
 - :office_worker: Currently just studying, I'm unemployed **(How about changing that, huh? Haha)**
-- :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Docker, and many others.
+- :blue_heart: Techs: React (Web and Mobile), Node.js, TypeScript, Docker, Kotlin, Java, Groovy and many others.
 - :books: Studying Kotlin and native Android development :blue_heart:
 
 ---
