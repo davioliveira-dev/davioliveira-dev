@@ -13,7 +13,7 @@ I am passionate about development, be it web, mobile, IoT or game development.
 
 <br> Also i'm gamer, i love Sonic since i was 6! ;)
 
-- :office_worker: Currently just studying, I'm unemployed **(How about changing that, huh? Haha)**
+- :office_worker: Currently just studying, I'm trainee as a junior developer at @TutanoDigitalOficial
 - :blue_heart: Techs: React (Web and Mobile), Node.js, TypeScript, Docker, Kotlin, Java, Groovy and many others.
 - :books: Studying Kotlin and native Android development :blue_heart:
 
