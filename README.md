@@ -35,7 +35,7 @@ I am passionate about development, be it web, mobile, IoT or game development.
   ![React](https://img.shields.io/badge/-React.js-45b8d8?style=for-the-badge&logo=react&logoColor=white)
   ![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=for-the-badge&logo=react&logoColor=white)
   ![Styled Components](https://img.shields.io/badge/-Styled_Components-db7092?style=for-the-badge&logo=styled-components&logoColor=white)
-  ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=Node.js&logoColor=white)
+  ![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=nodemon&logoColor=white)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=for-the-badge&logo=typescript&logoColor=fff)
   ![Kotlin](https://img.shields.io/badge/-Kotlin-00ADEF?style=for-the-badge&logo=kotlin&logoColor=orange)
   ![MySQL](https://img.shields.io/badge/-MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
