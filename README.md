@@ -24,7 +24,7 @@ I am passionate about development, be it web, mobile, IoT or game development.
   <br>
   
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=davioliveira-dev&show_icons=true&count_private=true&theme=radical&hide=issues" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=davioliveira-dev&show_icons=true&count_private=true&theme=tokyonight&hide=issues" />
   </a>
 
 ## Technologies I work with
