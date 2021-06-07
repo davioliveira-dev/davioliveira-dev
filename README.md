@@ -15,7 +15,7 @@ I am passionate about development, be it web, mobile, IoT or game development.
 
 - :office_worker: Currently just studying, I'm trainee as a junior developer at @TutanoDigitalOficial
 - :blue_heart: Techs: React (Web and Mobile), Node.js, TypeScript, Docker, Kotlin, Java, Groovy and many others.
-- :books: Studying JS everyday, the React ecosystem and Dart :blue_heart:
+- :books: Studying JS everyday, the React ecosystem and Python :D :blue_heart:
 
 ---
 
