@@ -13,21 +13,13 @@ I am passionate about development, be it web, mobile, IoT or game development.
 
 <br> Also i'm gamer, i love Sonic since i was 6! ;)
 
-- :office_worker: Currently just studying, I'm trainee as a junior developer at @TutanoDigitalOficial
+- :office_worker: Currently working as JS Developer.
 - :blue_heart: Techs: React (Web and Mobile), Node.js, TypeScript, Docker, Kotlin, Java, Groovy and many others.
 - :books: Studying JS everyday, the React ecosystem and Python :D :blue_heart:
 
 ---
 
-<details>
-  <summary> <b> Want to know more about me? </b> <i> (Click here to expand)</i> </summary>
-  <br>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=davioliveira-dev&show_icons=true&count_private=true&theme=tokyonight&hide=issues" />
-  </a>
-
-## Technologies I work with
+### Technologies I work with
 
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=for-the-badge&logo=css3&logoColor=white)
@@ -46,5 +38,15 @@ I am passionate about development, be it web, mobile, IoT or game development.
   ![Prettier](https://img.shields.io/badge/-Prettier-1A2B34?style=for-the-badge&logo=prettier&logoColor=white)
   ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white)
   ![Python](https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
+
+<details>
+  <summary> <b> Want to know more about me? </b> <i> (Click here to expand)</i> </summary>
+  <br>
+  
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=davioliveira-dev&show_icons=true&count_private=true&theme=tokyonight&hide=issues" />
+  </a>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davioliveira-dev&hide=TeX&layout=compact)
   
 </details>
