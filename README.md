@@ -43,7 +43,7 @@ I am passionate about development, be it web, mobile, IoT or game development.
   <a href="https://github.com/anuraghazra/github-readme-stats" style="max-height: 114px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=davioliveira-dev&show_icons=true&count_private=true&theme=tokyonight&hide=issues" />
   </a>
-
-<div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davioliveira-dev&hide=TeX&layout=compact&theme=tokyonight)</div>
+  
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davioliveira-dev&hide=TeX&layout=compact&theme=tokyonight)</div>
 
 </div>
