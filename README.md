@@ -39,11 +39,11 @@ I am passionate about development, be it web, mobile, IoT or game development.
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex;">
   <a href="https://github.com/anuraghazra/github-readme-stats" style="max-height: 114px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=davioliveira-dev&show_icons=true&count_private=true&theme=tokyonight&hide=issues" />
   </a>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davioliveira-dev&hide=TeX&layout=compact&theme=tokyonight)
+<div>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davioliveira-dev&hide=TeX&layout=compact&theme=tokyonight)</div>
 
 </div>
