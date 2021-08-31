@@ -40,10 +40,10 @@ I am passionate about development, be it web, mobile, IoT or game development.
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
 <div style="display: flex;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="max-height: 114px;">
+  <a href="https://github.com/anuraghazra/github-readme-stats" style="max-height: 86px;">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=davioliveira-dev&show_icons=true&count_private=true&theme=tokyonight&hide=issues" />
   </a>
-  
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davioliveira-dev&hide=TeX&layout=compact&theme=tokyonight)</div>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davioliveira-dev&hide=TeX&layout=compact&theme=tokyonight)
 
 </div>
