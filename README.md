@@ -19,7 +19,7 @@ I am passionate about development, be it web, mobile, IoT or game development.
 
 ---
 
-### Technologies I work with
+## Technologies I work with
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=for-the-badge&logo=css3&logoColor=white)
@@ -39,11 +39,15 @@ I am passionate about development, be it web, mobile, IoT or game development.
 ![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
 
-<div style="display: flex;">
-  <a href="https://github.com/anuraghazra/github-readme-stats" style="max-height: 86px;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=davioliveira-dev&show_icons=true&count_private=true&theme=tokyonight&hide=issues" />
-  </a>
+## :octocat: Github status:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davioliveira-dev&hide=TeX&layout=compact&theme=tokyonight)
+<div>
+  <img  src="https://badges.pufler.dev/repos/davioliveira-dev" alt="quantity of repositories ate github"  /> 
+  <img  src="https://badges.pufler.dev/years/davioliveira-dev" alt="period since I joined github" />
+</div>
 
+<div style="display: flex; flex-wrap: wrap; justify-content: center; margin: 30px 0;">  
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davioliveira-dev&layout=compact&count_private=true&theme=tokyonight" alt="Github Stats" />
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&username=davioliveira-dev&count_private=true&theme=tokyonight" alt="Github Stats" />
+  <br />
 </div>
