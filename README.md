@@ -3,7 +3,6 @@
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/davioliveira-dev)](https://github.com/davioliveira-dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davioliveira-dev/)](https://www.linkedin.com/in/davioliveira-dev/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/davi_oliveirab)](https://twitter.com/davi_oliveirab)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5585988270073&text=Olá!)](https://api.whatsapp.com/send?phone=5585988270073&text=Olá!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davioliveira-dev@outlook.com)](mailto:davioliveira-dev@outlook.com)
 
 ## :vulcan_salute: Hi! ;)
