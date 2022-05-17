@@ -7,14 +7,14 @@
 
 ## :vulcan_salute: Hi! ;)
 
-My name is Davi, I have a technical course in IT on EEEP José de Barcelos.
-I am passionate about development, be it web, mobile, IoT or game development.
+My name is Davi, I am passionate about development, be it web, mobile, IoT or game development.
 
 <br> Also i'm gamer, i love playing videogames since i was 6! My favorite game is Sonic ;)
 
 - :office_worker: Currently working as Fullstack JS Developer.
 - :blue_heart: Techs: React (Web and Mobile), Node.js, TypeScript, Docker, Java, Groovy, Python and many others.
-- :books: Studying JS/TS everyday, the React/Node.js ecosystem and Python :D :blue_heart:
+- :books: Studying JS/TS everyday, the React/React Native/Node.js ecosystem and Flutter :D :blue_heart:
+- :books: Also studying at a software engineering college!
 
 ---
 
