@@ -12,7 +12,7 @@ I am passionate about development, be it web, mobile, IoT or game development.
 
 <br> Also i'm gamer, i love playing videogames since i was 6! My favorite game is Sonic ;)
 
-- :office_worker: Currently working as JS Developer on "Mastertech" and "Tudo de Bicho".
+- :office_worker: Currently working as Fullstack JS Developer.
 - :blue_heart: Techs: React (Web and Mobile), Node.js, TypeScript, Docker, Java, Groovy, Python and many others.
 - :books: Studying JS/TS everyday, the React/Node.js ecosystem and Python :D :blue_heart:
 
