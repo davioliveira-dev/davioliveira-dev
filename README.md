@@ -13,7 +13,7 @@ My name is Davi, I am passionate about development, be it web, mobile, IoT or ga
 
 - :office_worker: Currently working as Fullstack JS Developer.
 - :blue_heart: Techs: React (Web and Mobile), Node.js, TypeScript, Docker, Java, Groovy, Python and many others.
-- :books: Studying JS/TS everyday, the React/React Native/Node.js ecosystem and Flutter :D :blue_heart:
+- :books: Studying JS/TS everyday, the React/React Native/Node.js ecosystem :D :blue_heart:
 - :books: Also studying at a software engineering college!
 
 ---
