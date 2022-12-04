@@ -36,11 +36,6 @@ My name is Davi, I am passionate about development, be it web, mobile, IoT or ga
 
 ## :octocat: Github status:
 
-<div>
-  <img  src="https://badges.pufler.dev/repos/davioliveira-dev" alt="quantity of repositories ate github"  /> 
-  <img  src="https://badges.pufler.dev/years/davioliveira-dev" alt="period since I joined github" />
-</div>
-
 <div style="display: flex; flex-wrap: wrap; justify-content: center; margin: 30px 0;">  
   <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=davioliveira-dev&layout=compact&count_private=true&theme=tokyonight" alt="Github Stats" />
   <img height="150px" src="https://github-readme-stats.vercel.app/api?show_icons=true&include_all_commits=true&username=davioliveira-dev&count_private=true&theme=tokyonight" alt="Github Stats" />
