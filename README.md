@@ -11,7 +11,7 @@ My name is Davi, I am passionate about development, be it web, mobile, IoT or ga
 <br> Also i'm gamer, i love playing videogames since i was 6! My favorite game is Sonic ;)
 
 - :office_worker: Currently working as Fullstack Developer.
-- :blue_heart: Techs: React (Web and Mobile), Node.js, TypeScript, Java, Python, C++ and anything they (or me) want to me do.
+- :blue_heart: Techs: React (Web and Mobile), Node.js, TypeScript, Java, Python, C++ and anything they (or me) want to do.
 - :books: Software engineering college!
 
 ---
