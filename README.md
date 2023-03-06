@@ -16,22 +16,6 @@ My name is Davi, I am passionate about development, be it web, mobile, IoT or ga
 
 ---
 
-## :hammer: Technologies I work with
-
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-549FDE?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7B93E?style=for-the-badge&logo=javascript&logoColor=fff)
-![React](https://img.shields.io/badge/-React.js-45b8d8?style=for-the-badge&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-45b8d8?style=for-the-badge&logo=react&logoColor=white)
-![Nodejs](https://img.shields.io/badge/-Node.js-43853d?style=for-the-badge&logo=nodemon&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-0077C6?style=for-the-badge&logo=typescript&logoColor=fff)
-![Python](https://img.shields.io/badge/-Python-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=for-the-badge&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![npm](https://img.shields.io/badge/-NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
 ## :octocat: Github status:
 
 <div style="display: flex; flex-wrap: wrap; justify-content: center; margin: 30px 0;">  
