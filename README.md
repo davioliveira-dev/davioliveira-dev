@@ -13,7 +13,7 @@ I have two dogs, called Kiara and Nala. I mostly spend my time strolling through
 Also i'm gamer, i love playing videogames since i was 6! My favorite game is Sonic ;)
 
 - :office_worker: Currently working as Fullstack Developer.
-- :blue_heart: Techs: React (Web and Mobile), Node.js/Bun/Deno, Java, Python, C++ and anything they (or me) want to do.
+- :blue_heart: Techs: React (Web and Mobile), Vue, Node.js/Bun/Deno, Java, Python, C++ and anything they (or me) want to do.
 - :books: Software engineering college!
 
 ---
