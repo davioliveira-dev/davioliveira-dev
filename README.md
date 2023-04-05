@@ -2,7 +2,6 @@
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/davioliveira-dev)](https://github.com/davioliveira-dev)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/davioliveira-dev/)](https://www.linkedin.com/in/davioliveira-dev/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:davioliveira-dev@outlook.com)](mailto:davioliveira-dev@outlook.com)
 
 ## :vulcan_salute: Hi! ;)
 
