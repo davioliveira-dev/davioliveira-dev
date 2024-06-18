@@ -4,8 +4,6 @@
 
 My name is Davi, I am passionate about development, be it web, mobile, IoT or game development.
 
-I have two dogs, called Kiara and Nala. I mostly spend my time strolling through new places with my dogs, trying out new restaurants or watching series.
-
 Also i'm gamer, i love playing videogames since i was 6!
 
 - :office_worker: Currently working as Fullstack Developer.
